@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Onoja Peter
+- 👀 I’m interested in Frontend web developer roles / interships
+- 🌱 I’m currently learning Backend web development using Nodejs
+- 📫 How to reach me email: onojapeter90@gmail.com
