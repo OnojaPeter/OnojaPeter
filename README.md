@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Onoja Peter
+- 👋 Hi, my name is Peter
+- I am a frontend developer with solid understanding of Frontend technologies inluding HTML, CSS, and Javascript
 - 👀 I’m interested in Frontend web developer roles / interships
-- 🌱 I’m currently learning Backend web development using Nodejs
+- 🌱 I’m currently learning Backend web development using Nodejs and Express
 - 📫 How to reach me email: onojapeter90@gmail.com
